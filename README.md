@@ -1,5 +1,17 @@
- 
+# Coin Collector Game
+A Simple 2D arcade game built using Microsoft MakeCode Arcade.
 
+## How to Play
+-Move using the arrow keys.
+-Collect coins to increase your score.
+-Avoid the enemy.
+-Collect 20 coins to win.
+
+## Features
+-Random coin spawning
+-Enemy follows the player
+-Score and lives
+-Background music
 
 > Open this page at [https://sushree06.github.io/coin-collector-game/](https://sushree06.github.io/coin-collector-game/)
 
